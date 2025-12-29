@@ -6,3 +6,4 @@
 
 # Whitelist importand dirs
 !/hypr/
+!restore.sh
